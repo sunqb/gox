@@ -1,4 +1,4 @@
-module first
+module gox
 
 go 1.16
 

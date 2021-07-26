@@ -1,10 +1,10 @@
 package demo
 
 import (
-	"first/etcd"
-	"first/kv"
-	"first/random"
 	"fmt"
+	"gox/etcd"
+	"gox/kv"
+	"gox/random"
 	"testing"
 )
 
